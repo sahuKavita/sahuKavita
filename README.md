@@ -85,12 +85,12 @@ A responsive calculator app built with vanilla JavaScript, supporting basic arit
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Project Name 2
+### 🌐 Loot Bazar
 One-line description — what problem it solves and the stack you used.
 
 `Express` `MongoDB` `JWT`
 
-<a href="https://github.com/sahukavita/project-2">🔗 Repo</a> &nbsp;|&nbsp; <a href="#">🚀 Live Demo</a>
+<a href="https://github.com/sahuKavita/Loot_Bazar">🔗 Repo</a> &nbsp;|&nbsp; <a href=" https://sahukavita.github.io/Loot_Bazar/">🚀 Live Demo</a>
 
 </td>
 </tr>
