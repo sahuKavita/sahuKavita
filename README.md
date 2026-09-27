@@ -75,12 +75,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Project Name 1
-One-line description — what problem it solves and the stack you used.
+### 🌐 Calculator with JS
+A responsive calculator app built with vanilla JavaScript, supporting basic arithmetic operations with a clean, interactive UI.
 
-`React` `Node.js` `MongoDB`
+`HTML` `CSS` `JavaScript`
 
-[🔗 Repo](https://github.com/sahukavita/project-1) &nbsp;|&nbsp; [🚀 Live Demo](#)
+<a href="https://github.com/sahukavita/Calculator-with-Js">🔗 Repo</a> &nbsp;|&nbsp; <a href="https://sahukavita.github.io/Calculator-with-Js/">🚀 Live Demo</a>
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +90,7 @@ One-line description — what problem it solves and the stack you used.
 
 `Express` `MongoDB` `JWT`
 
-[🔗 Repo](https://github.com/sahukavita/project-2) &nbsp;|&nbsp; [🚀 Live Demo](#)
+<a href="https://github.com/sahukavita/project-2">🔗 Repo</a> &nbsp;|&nbsp; <a href="#">🚀 Live Demo</a>
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ One-line description — what problem it solves and the stack you used.
 
 `Python` `Automation`
 
-[🔗 Repo](https://github.com/sahukavita/project-3) &nbsp;|&nbsp; [🚀 Live Demo](#)
+<a href="https://github.com/sahukavita/project-3">🔗 Repo</a> &nbsp;|&nbsp; <a href="#">🚀 Live Demo</a>
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +112,7 @@ One-line description — what problem it solves and the stack you used.
 
 `C` `DSA`
 
-[🔗 Repo](https://github.com/sahukavita/project-4) &nbsp;|&nbsp; [🚀 Live Demo](#)
+<a href="https://github.com/sahukavita/project-4">🔗 Repo</a> &nbsp;|&nbsp; <a href="#">🚀 Live Demo</a>
 
 </td>
 </tr>
