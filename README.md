@@ -12,7 +12,7 @@
 <a href="https://github.com/sahukavita">
   <img src="https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:sahukavita9118@gmail.com">
+<a href="mailto:YOUR-EMAIL@example.com">
   <img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -53,30 +53,11 @@ const kavita = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sahukavita&show_icons=true&hide_border=true&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahukavita&layout=compact&hide_border=true&title_color=8E2DE2&text_color=c9d1d9&bg_color=0d1117" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahukavita&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahukavita&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true" width="90%" />
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3">
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sahukavita/sahukavita/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-<sub>✨ Ye snake animation tabhi dikhega jab niche di gayi GitHub Action setup kar dogi</sub>
-
-</div>
+<sub>⚠️ Stats/activity-graph cards abhi hata diye gaye hain kyunki unki public service rate-limited chal rahi hai. Jab apna khud ka Vercel instance deploy kar loge (steps neeche), tab wapas add kar sakti ho.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=3">
 
