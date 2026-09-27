@@ -90,7 +90,7 @@ One-line description — what problem it solves and the stack you used.
 
 `Express` `MongoDB` `JWT`
 
-<a href="https://github.com/sahuKavita/Loot_Bazar">🔗 Repo</a> &nbsp;|&nbsp; <a href=" https://sahukavita.github.io/Loot_Bazar/">🚀 Live Demo</a>
+<a href="https://github.com/sahuKavita/Loot_Bazar">🔗 Repo</a> &nbsp;|&nbsp; <a href="https://sahukavita.github.io/Loot_Bazar/">🚀 Live Demo</a>
 
 </td>
 </tr>
