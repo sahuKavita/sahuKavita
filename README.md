@@ -75,12 +75,12 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Calculator 
-One-line description —A clean, responsive calculator app with real-time arithmetic operations.
+### 🌐 Project Name 1
+One-line description — what problem it solves and the stack you used.
 
 `React` `Node.js` `MongoDB`
 
-[🔗 Repo]( https://sahukavita.github.io/Calculator-with-Js/) &nbsp;|&nbsp; [🚀 Live Demo](#)
+[🔗 Repo](https://github.com/sahukavita/project-1) &nbsp;|&nbsp; [🚀 Live Demo](#)
 
 </td>
 <td width="50%" valign="top">
