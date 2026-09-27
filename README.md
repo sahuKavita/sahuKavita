@@ -12,7 +12,7 @@
 <a href="https://github.com/sahukavita">
   <img src="https://img.shields.io/badge/GitHub-4A00E0?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:sahukavita9118@gmail.com">
   <img src="https://img.shields.io/badge/Email-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
