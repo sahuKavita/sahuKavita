@@ -124,7 +124,7 @@ One-line description — what problem it solves and the stack you used.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahukavita&hide_border=true&background=0D1117&ring=FF512F&fire=DD2476&currStreakLabel=FF512F" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahukavita&hide_border=true&background=0D1117&ring=FF512F&fire=DD2476&currStreakLabel=FF512F&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E" />
 
 </div>
 
